@@ -1,0 +1,634 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.0f1 (c7b5465681fb) revision 13088070'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19041.928; Version 2004; 64bit' Language: 'en' Physical Memory: 32615 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.0f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Source/Philip-S-Martin/Rogue Waters
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+54915
+Successfully changed project path to: C:/Source/Philip-S-Martin/Rogue Waters
+C:/Source/Philip-S-Martin/Rogue Waters
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 46.83 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.0f1 (c7b5465681fb)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Source/Philip-S-Martin/Rogue Waters/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1070 with Max-Q Design (ID=0x1ba1)
+    Vendor:   
+    VRAM:     8081 MB
+    Driver:   27.21.14.6231
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56320
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001909 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 44.77 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.091 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001399 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 46.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.975 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2733 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 123.4 MB.
+System memory in use after: 121.7 MB.
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 3151.
+Total: 3.445100 ms (FindLiveObjects: 0.297300 ms CreateObjectMapping: 0.395500 ms MarkObjects: 1.793200 ms  DeleteObjects: 0.958200 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Team/Philip
+  artifactKey: Guid(b09f69f12c4550c4a92ed1498ca37b0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Team/Philip using Guid(b09f69f12c4550c4a92ed1498ca37b0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e467e2ab5410ff8f2af5b4ca5efdec5c') in 0.009478 seconds
+  Import took 0.013351 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.236643 seconds.
+  path: Assets/Team/Philip/Input
+  artifactKey: Guid(cecb4f0b412e6da4c9d95f121f5eb866) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Team/Philip/Input using Guid(cecb4f0b412e6da4c9d95f121f5eb866) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd423e16c8e99ad57abf9494ca89537e2') in 0.006721 seconds
+  Import took 0.010931 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.784770 seconds.
+  path: Assets/Team/Philip/Input/Echobringer.inputactions
+  artifactKey: Guid(d58662fa1a3d4514fb35bffc588606c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Team/Philip/Input/Echobringer.inputactions using Guid(d58662fa1a3d4514fb35bffc588606c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4ca5638fff6f2e0a90bda8b6632f60a') in 0.058425 seconds
+  Import took 0.063481 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001451 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.895 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2650 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.7 MB.
+System memory in use after: 118.0 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 3154.
+Total: 3.438100 ms (FindLiveObjects: 0.253600 ms CreateObjectMapping: 0.122000 ms MarkObjects: 2.063000 ms  DeleteObjects: 0.998700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001376 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.869 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2650 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.9 MB.
+System memory in use after: 118.1 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 3157.
+Total: 3.282900 ms (FindLiveObjects: 0.279500 ms CreateObjectMapping: 0.118500 ms MarkObjects: 1.827200 ms  DeleteObjects: 1.056300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002314 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.865 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2650 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.9 MB.
+System memory in use after: 118.2 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 3160.
+Total: 4.093500 ms (FindLiveObjects: 0.326800 ms CreateObjectMapping: 0.174200 ms MarkObjects: 2.430200 ms  DeleteObjects: 1.160600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 290.556520 seconds.
+  path: Assets/Team/Philip/Scenes
+  artifactKey: Guid(dab263646b75ff4479340b5028dc9aac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Team/Philip/Scenes using Guid(dab263646b75ff4479340b5028dc9aac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebe05ae63654a8616821ab303072c2b5') in 0.009755 seconds
+  Import took 0.014056 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.967725 seconds.
+  path: Assets/Team/Philip/Scenes/ShipGen.unity
+  artifactKey: Guid(7113d606cbe30c347be018935b6eb1f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Team/Philip/Scenes/ShipGen.unity using Guid(7113d606cbe30c347be018935b6eb1f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8d594430f8fc3421131e5dc7fb513ba') in 0.014784 seconds
+  Import took 0.019019 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001349 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.876 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2650 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.9 MB.
+System memory in use after: 118.2 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 3163.
+Total: 3.897800 ms (FindLiveObjects: 0.269200 ms CreateObjectMapping: 0.131500 ms MarkObjects: 2.318500 ms  DeleteObjects: 1.177500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001339 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.862 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2650 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.9 MB.
+System memory in use after: 118.2 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 3166.
+Total: 3.501800 ms (FindLiveObjects: 0.262800 ms CreateObjectMapping: 0.117000 ms MarkObjects: 1.992600 ms  DeleteObjects: 1.128200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 596.412306 seconds.
+  path: Assets/Team/Mohamed/TerrainTextures/dirt.terrainlayer
+  artifactKey: Guid(c25f012d8eaba684b9a392d71f427372) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Team/Mohamed/TerrainTextures/dirt.terrainlayer using Guid(c25f012d8eaba684b9a392d71f427372) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd04b333ae6caa2e2d6efa48ef322c26') in 0.096703 seconds
+  Import took 0.103725 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/Team/Mohamed/TerrainTextures/sand_albedo.tif
+  artifactKey: Guid(6bcc65b7c6e3a0b448d7801bfc56842f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Team/Mohamed/TerrainTextures/sand_albedo.tif using Guid(6bcc65b7c6e3a0b448d7801bfc56842f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a92f8bb3c8b4e069ffeb2bc846c11e2') in 0.024886 seconds
+  Import took 0.028556 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/Team/Mohamed/TerrainTextures/snow_albedo.tif
+  artifactKey: Guid(0cc0777f7d4a3444380eb084d74396b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Team/Mohamed/TerrainTextures/snow_albedo.tif using Guid(0cc0777f7d4a3444380eb084d74396b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c7ec3ca23093a6dd01ca211f7d6194e') in 0.011830 seconds
+  Import took 0.016017 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/Team/Mohamed/TerrainTextures/scree_albedo.tif
+  artifactKey: Guid(fcd3993703e7d804bb735613d2a5189d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Team/Mohamed/TerrainTextures/scree_albedo.tif using Guid(fcd3993703e7d804bb735613d2a5189d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48a1aa8de1c550e81527e81115b3894d') in 0.011107 seconds
+  Import took 0.015610 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Team/Mohamed/TerrainTextures/GroundStones01_N.png
+  artifactKey: Guid(63312008529ed1d4bab4d57c204bae7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Team/Mohamed/TerrainTextures/GroundStones01_N.png using Guid(63312008529ed1d4bab4d57c204bae7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'daad1cd1a2cbd88ada95bc42bffc2f8d') in 0.075440 seconds
+  Import took 0.080771 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/Team/Mohamed/TerrainTextures/scree_mask.tif
+  artifactKey: Guid(e2a486d7d86a7e8469b15e7ae4d004f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Team/Mohamed/TerrainTextures/scree_mask.tif using Guid(e2a486d7d86a7e8469b15e7ae4d004f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98c9434664fdcf6d269a5263aaf4ac3b') in 0.012908 seconds
+  Import took 0.016903 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/Team/Mohamed/TerrainTextures/scree.terrainlayer
+  artifactKey: Guid(6a3097ee6a39c594e8c63dae726b2278) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Team/Mohamed/TerrainTextures/scree.terrainlayer using Guid(6a3097ee6a39c594e8c63dae726b2278) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13626c37fc578bcdcce6e52be2cff175') in 0.012932 seconds
+  Import took 0.018479 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/Team/Mohamed/TerrainTextures/snow_mask.tif
+  artifactKey: Guid(1a4d9960438e8f242a5155b27813efe9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Team/Mohamed/TerrainTextures/snow_mask.tif using Guid(1a4d9960438e8f242a5155b27813efe9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48f4f1f1a8406f7eea891d3e9177d2dc') in 0.012025 seconds
+  Import took 0.016296 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/Team/Mohamed/TerrainTextures/sand_mask.tif
+  artifactKey: Guid(58a4a6310bd23844bae88d82f7916059) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Team/Mohamed/TerrainTextures/sand_mask.tif using Guid(58a4a6310bd23844bae88d82f7916059) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '892c3c1ec86c00009343c459cd184ae2') in 0.012130 seconds
+  Import took 0.016252 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Team/Mohamed/TerrainTextures/rock_mask.tif
+  artifactKey: Guid(44f7e6aa71506b041ac0a60db8868a44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Team/Mohamed/TerrainTextures/rock_mask.tif using Guid(44f7e6aa71506b041ac0a60db8868a44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f64ef23cbd5d903b8a4015b3bcaeafc6') in 0.010381 seconds
+  Import took 0.014643 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Team/Mohamed/TerrainTextures/NewLayer.terrainlayer
+  artifactKey: Guid(3a7d2a9bb9cf16b4cadf1868f4488e4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Team/Mohamed/TerrainTextures/NewLayer.terrainlayer using Guid(3a7d2a9bb9cf16b4cadf1868f4488e4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca6d315e70a344ce7132a152fd6e2db9') in 0.135874 seconds
+  Import took 0.146309 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Team/Mohamed/TerrainTextures/GrassUV02_N.png
+  artifactKey: Guid(db6b5112f8b3bcf478707e82ef048e88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Team/Mohamed/TerrainTextures/GrassUV02_N.png using Guid(db6b5112f8b3bcf478707e82ef048e88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27e89bfbdd1db8b3f0726f8f763ecdc3') in 0.077689 seconds
+  Import took 0.086194 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/Team/Mohamed/TerrainTextures/sand.terrainlayer
+  artifactKey: Guid(aa7afa2eb72909e4d8083508573d955f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Team/Mohamed/TerrainTextures/sand.terrainlayer using Guid(aa7afa2eb72909e4d8083508573d955f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '130765ed50361d642b10a63f17e5e4ed') in 0.050750 seconds
+  Import took 0.055096 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/Team/Mohamed/TerrainTextures/snow_normal.tif
+  artifactKey: Guid(52f2b70b42682a145b20ea5f04fd6af1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Team/Mohamed/TerrainTextures/snow_normal.tif using Guid(52f2b70b42682a145b20ea5f04fd6af1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ca1f4caaf3f2642dc60e3cd9b8e61c8') in 0.011207 seconds
+  Import took 0.015429 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Team/Mohamed/TerrainTextures/GroundCracked01_N.png
+  artifactKey: Guid(9511ab33cd5f6724f8c31c380a4814af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Team/Mohamed/TerrainTextures/GroundCracked01_N.png using Guid(9511ab33cd5f6724f8c31c380a4814af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd57aede18e213cc64b84103d459a973f') in 0.013221 seconds
+  Import took 0.017447 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/Team/Mohamed/TerrainTextures/rock_albedo.tif
+  artifactKey: Guid(f7dd726c93b8f17418ea3be3f6768909) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Team/Mohamed/TerrainTextures/rock_albedo.tif using Guid(f7dd726c93b8f17418ea3be3f6768909) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '315be8bb9028fba172d91772b84b88f1') in 0.010180 seconds
+  Import took 0.014219 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/Team/Mohamed/TerrainTextures/moss_mask.tif
+  artifactKey: Guid(ff77b812a1621e74694371cb173618ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Team/Mohamed/TerrainTextures/moss_mask.tif using Guid(ff77b812a1621e74694371cb173618ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e77e1d0ee80e7b07892c1c4e860dfd06') in 0.012065 seconds
+  Import took 0.015988 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Assets/Team/Mohamed/TerrainTextures/screen_normal.tif
+  artifactKey: Guid(703d1f74c69fc95498dcfd0afe8e1d61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Team/Mohamed/TerrainTextures/screen_normal.tif using Guid(703d1f74c69fc95498dcfd0afe8e1d61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '179bb44c5ade270f49162aa9dce8a2d7') in 0.013206 seconds
+  Import took 0.017205 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Team/Mohamed/TerrainTextures/dirt_mask.tif
+  artifactKey: Guid(3c6d7b80bcc59ae448166eacd4ad79b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Team/Mohamed/TerrainTextures/dirt_mask.tif using Guid(3c6d7b80bcc59ae448166eacd4ad79b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5e290f54dac5e49e344dd5bfc116633') in 0.012607 seconds
+  Import took 0.016616 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000346 seconds.
+  path: Assets/Team/Mohamed/TerrainTextures/Sand_Diffuse.tif
+  artifactKey: Guid(42df4504925e3c6428d6c62cdba23147) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Team/Mohamed/TerrainTextures/Sand_Diffuse.tif using Guid(42df4504925e3c6428d6c62cdba23147) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a56e8612e5b4921c9729d6720c880fbb') in 0.014352 seconds
+  Import took 0.018229 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Team/Mohamed/TerrainTextures/dirt_normal.tif
+  artifactKey: Guid(1ff4687a05ada474ca7eaf3010a871f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Team/Mohamed/TerrainTextures/dirt_normal.tif using Guid(1ff4687a05ada474ca7eaf3010a871f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4517b708fb0098ef048ff5cf7695930') in 0.011690 seconds
+  Import took 0.015789 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000341 seconds.
+  path: Assets/Team/Mohamed/TerrainTextures/dirt_albedo.tif
+  artifactKey: Guid(7f3df385222f5b1428f6a156037deb5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Team/Mohamed/TerrainTextures/dirt_albedo.tif using Guid(7f3df385222f5b1428f6a156037deb5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7d768472095eb551a16c71da1ed6604') in 0.010556 seconds
+  Import took 0.014306 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/Team/Mohamed/TerrainTextures/GroundStones01.png
+  artifactKey: Guid(17405fba9d20b47408239b3e82d60232) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Team/Mohamed/TerrainTextures/GroundStones01.png using Guid(17405fba9d20b47408239b3e82d60232) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d92f16c3eef898fe33d8e3adeab9cf6') in 0.024532 seconds
+  Import took 0.029828 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/Team/Mohamed/TerrainTextures/moss_normal.tif
+  artifactKey: Guid(67a70a78d678fb649b5c703cd7dc85c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Team/Mohamed/TerrainTextures/moss_normal.tif using Guid(67a70a78d678fb649b5c703cd7dc85c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fec45b5b4c38e85b977f160c67367785') in 0.013837 seconds
+  Import took 0.017871 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/Team/Mohamed/TerrainTextures/GroundDryLeaves01_N.png
+  artifactKey: Guid(e39dfb80d9815f14da82c65960519b23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Team/Mohamed/TerrainTextures/GroundDryLeaves01_N.png using Guid(e39dfb80d9815f14da82c65960519b23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e3b03372956430adb556bec7a1e3631') in 0.026051 seconds
+  Import took 0.030923 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/Team/Mohamed/TerrainTextures/moss_albedo.tif
+  artifactKey: Guid(43b54d39e0a4c4d47bef645abec127f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Team/Mohamed/TerrainTextures/moss_albedo.tif using Guid(43b54d39e0a4c4d47bef645abec127f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab28f5ad4f9baf9ceb9eb166ea44c84f') in 0.011456 seconds
+  Import took 0.015613 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/Team/Mohamed/TerrainTextures/rock_normal.tif
+  artifactKey: Guid(f45c3bd09301cc64783afc31dfca026b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Team/Mohamed/TerrainTextures/rock_normal.tif using Guid(f45c3bd09301cc64783afc31dfca026b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76cde670030c5d1e7fcd52146b74a77d') in 0.011686 seconds
+  Import took 0.015529 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/Team/Mohamed/TerrainTextures/GrassUV02.png
+  artifactKey: Guid(bafadcf258df85b4686863cbaa688fba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Team/Mohamed/TerrainTextures/GrassUV02.png using Guid(bafadcf258df85b4686863cbaa688fba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '629daea99257dfe3f5cff4a85612e9c6') in 0.038098 seconds
+  Import took 0.044568 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/Team/Mohamed/TerrainTextures/sand_normal.tif
+  artifactKey: Guid(dd1ad706663683546b665fd5b0286bbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Team/Mohamed/TerrainTextures/sand_normal.tif using Guid(dd1ad706663683546b665fd5b0286bbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96ca2e727138e2d1bc94a21d603f2152') in 0.012813 seconds
+  Import took 0.016805 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/Team/Mohamed/TerrainTextures/moss.terrainlayer
+  artifactKey: Guid(56b2820651de357459e8d89d2b4f3f05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Team/Mohamed/TerrainTextures/moss.terrainlayer using Guid(56b2820651de357459e8d89d2b4f3f05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60fc5997335d6ea3ab4d6977be09de99') in 0.014707 seconds
+  Import took 0.018474 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000339 seconds.
+  path: Assets/Team/Mohamed/TerrainTextures/GrassUV01.png
+  artifactKey: Guid(94e5dd2784ae3a44a930dba86cba9f6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Team/Mohamed/TerrainTextures/GrassUV01.png using Guid(94e5dd2784ae3a44a930dba86cba9f6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd63d3198d6fadc3d2893bd20950fe14') in 0.036174 seconds
+  Import took 0.042369 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/Team/Mohamed/TerrainTextures/GroundDryLeaves01.png
+  artifactKey: Guid(3f893818068c13c498261af150bea6f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Team/Mohamed/TerrainTextures/GroundDryLeaves01.png using Guid(3f893818068c13c498261af150bea6f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '591fbc9b4756a6c13677f4bc7104bb79') in 0.022752 seconds
+  Import took 0.028016 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/Team/Mohamed/TerrainTextures/GroundCracked01.png
+  artifactKey: Guid(a87cbf62329d56d4681d92302095915c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Team/Mohamed/TerrainTextures/GroundCracked01.png using Guid(a87cbf62329d56d4681d92302095915c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfbd49d914ecffccce0db47f1be911f9') in 0.013604 seconds
+  Import took 0.017564 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000368 seconds.
+  path: Assets/Team/Mohamed/TerrainTextures/snow.terrainlayer
+  artifactKey: Guid(34a7124a250b6314f803cba5555e7faa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Team/Mohamed/TerrainTextures/snow.terrainlayer using Guid(34a7124a250b6314f803cba5555e7faa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b5342d91f9c0aaff5d370eb2d98d6f0') in 0.013150 seconds
+  Import took 0.017160 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/Team/Mohamed/TerrainTextures/rock.terrainlayer
+  artifactKey: Guid(716937fe861ba6748bfd599e6802e70a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Team/Mohamed/TerrainTextures/rock.terrainlayer using Guid(716937fe861ba6748bfd599e6802e70a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39fd66a6cf7667157c397f08c733265d') in 0.012810 seconds
+  Import took 0.016742 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Team/Mohamed/TerrainTextures/GrassUV01_N.png
+  artifactKey: Guid(77f758ad16f6580469ca8f42205f7b78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Team/Mohamed/TerrainTextures/GrassUV01_N.png using Guid(77f758ad16f6580469ca8f42205f7b78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7882252a5ac9d8355147ac9abfb101bc') in 0.065429 seconds
+  Import took 0.074067 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Team/Mohamed/TerrainTextures/Sand_Normal.png
+  artifactKey: Guid(4461133173c4c6f4699bb1d9e2d83ba4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Team/Mohamed/TerrainTextures/Sand_Normal.png using Guid(4461133173c4c6f4699bb1d9e2d83ba4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10088839e9806eeff1511bfeb1f4a645') in 0.013891 seconds
+  Import took 0.017990 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.431494 seconds.
+  path: Assets/Team/RogueWaters.unity
+  artifactKey: Guid(181ff70b771bb9446aaf5bb737f26906) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Team/RogueWaters.unity using Guid(181ff70b771bb9446aaf5bb737f26906) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f7fcf0e0afb49db0c978eb7dfd2d643') in 0.008159 seconds
+  Import took 0.012712 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 96.221304 seconds.
+  path: Assets/Team/Mohamed/TerrainTextures
+  artifactKey: Guid(caa608aed10c4ac40ad6a566f8b777ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Team/Mohamed/TerrainTextures using Guid(caa608aed10c4ac40ad6a566f8b777ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99542ce2fd3594181bf21ed1849d1455') in 0.008526 seconds
+  Import took 0.014918 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.841976 seconds.
+  path: Assets/Team/Mohamed/sand.terrainlayer
+  artifactKey: Guid(cb114045a484b1546b47561f76db92a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Team/Mohamed/sand.terrainlayer using Guid(cb114045a484b1546b47561f76db92a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1fa94d3ea6c90924854a60f04053975') in 0.013515 seconds
+  Import took 0.017995 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.330507 seconds.
+  path: Assets/Scripts/Noisy-Nodes/demo.jpg
+  artifactKey: Guid(b1f0359bcbbbd1e499d83973e0e2626b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Noisy-Nodes/demo.jpg using Guid(b1f0359bcbbbd1e499d83973e0e2626b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f54bf24db1fe9937c8588599b70b9d8') in 0.014766 seconds
+  Import took 0.018804 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/Team/Kha/normal.png
+  artifactKey: Guid(80cb9c707f960d543b608a1931e838e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Team/Kha/normal.png using Guid(80cb9c707f960d543b608a1931e838e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c891ae817594802862ffbc33436cadd') in 0.012514 seconds
+  Import took 0.017861 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/Scripts/Noisy-Nodes/demo.jpg
+  artifactKey: Guid(b1f0359bcbbbd1e499d83973e0e2626b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Noisy-Nodes/demo.jpg using Guid(b1f0359bcbbbd1e499d83973e0e2626b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f54bf24db1fe9937c8588599b70b9d8') in 0.006884 seconds
+  Import took 0.011092 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000354 seconds.
+  path: Assets/Team/Mohamed/IslandTerrain.asset
+  artifactKey: Guid(f49b45f327a4d574297d4a585149557c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Team/Mohamed/IslandTerrain.asset using Guid(f49b45f327a4d574297d4a585149557c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4ab3c02b6a3d3ce8f8a8cd35e544f92') in 0.031952 seconds
+  Import took 0.036691 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 468.254226 seconds.
+  path: Assets/Team/Mohamed/TerrainTextures/GrassUV02.png
+  artifactKey: Guid(bafadcf258df85b4686863cbaa688fba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Team/Mohamed/TerrainTextures/GrassUV02.png using Guid(bafadcf258df85b4686863cbaa688fba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3926c6a69ef32ff9f4f890c25fe08fd9') in 0.017172 seconds
+  Import took 0.022631 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000399 seconds.
+  path: Assets/Team/Mohamed/TerrainTextures/GrassUV02_N.png
+  artifactKey: Guid(db6b5112f8b3bcf478707e82ef048e88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Team/Mohamed/TerrainTextures/GrassUV02_N.png using Guid(db6b5112f8b3bcf478707e82ef048e88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2eecbc12346f48551b30761cfe0dd0b') in 0.014946 seconds
+  Import took 0.020595 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001440 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.883 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2656 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 124.4 MB.
+System memory in use after: 123.2 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 3191.
+Total: 3.303100 ms (FindLiveObjects: 0.362800 ms CreateObjectMapping: 0.230900 ms MarkObjects: 1.999600 ms  DeleteObjects: 0.708400 ms)
+
